@@ -1,0 +1,7 @@
+Crime and Punishment|Fyodor Dostoevsky|1866|true|500.0|Crime|4.095000000000001|14
+To Kill a Mockingbird|Harper Lee|1960|true|250.0|Fiction|4.2|5
+The Great Gatsby|F. Scott Fitzgerald|1925|true|340.0|Fiction|3.7|20
+Gone Girl|Gillian Flynn|2012|true|400.0|Mystery|3.9|15
+The Hobbit| J.R.R. Tolkien|1937|true|150.0|Fantasy|4.0|1
+A Brief History of Time|Stephen Hawking|1988|true|500.0|Science|4.095000000000001|11
+Head your first java|Kathy Sierra and Bert Bates|2003|false|300.0|Programming|2.75|0

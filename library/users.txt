@@ -1,0 +1,4 @@
+1,alaa,alaa@example.com,01020,1234,borrower
+2,ghalia,ghalia@gmail.com,01000000000,1234,borrower
+1,alaa,alaa@example.com,01020,1234,customer
+2,ghalia,ghalia@gmail.com,01000000000,1234,customer
